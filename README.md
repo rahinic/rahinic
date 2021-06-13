@@ -7,7 +7,7 @@
 - (3) Twitter Crawler - Two implementations using: (i) RestAPI and (ii) Streaming API <coming soon>
   
 ### Data Analysis Projects:
-- (1) [Google Playstore Analysis](https://github.com/rahinic/googleplaystore_analysis) 
+- (1) [Google Playstore Analysis](https://github.com/rahinic/googleplaystore_analysis) - Download statistics of Paid vs Free Apps
 
 ### Neural Network Projects:
 projects done with the aim to learn PyTorch, Neural Network for Natural Language Processing. 
