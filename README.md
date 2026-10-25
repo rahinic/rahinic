@@ -1,6 +1,6 @@
 # Hey there 👋 I'm Rahini
 
-I work with data: BI, analytics engineering and performance dashboards. At work I also build automations with n8n and small AI-assisted workflows, using LLM APIs such as OpenAI and Claude. This page is a tour of what I'm building now, followed by older projects.
+I work with data: BI, analytics engineering and performance dashboards. At work I also build automations with n8n and small AI-assisted workflows, using LLM APIs such as OpenAI and Claude. This page is a tour of my personal projects, what I'm building now followed by older ones. My work projects aren't listed here.
 
 I'm interested in personal finance, so I combined it with my professional skills in data engineering and analysis in a small demo project, `net-worth-engine`. `kitchen-grimoire` is a pure-fun side project that shows a different side of my interests. With both repos I'm also learning Claude Code, Cowork and related tools.
 
