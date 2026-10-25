@@ -1,6 +1,6 @@
 # Hey there 👋 I'm Rahini
 
-I work with data: BI, analytics engineering, performance dashboards, and NLP. This page is a tour of what I'm building now, followed by older projects.
+I work with data: BI, analytics engineering and performance dashboards. At work I also build automations with n8n and small AI-assisted workflows, using LLM APIs such as OpenAI and Claude. I got into NLP during my Master's, and my thesis was a qualitative analysis project. This page is a tour of what I'm building now, followed by older projects.
 
 ## 🔭 What I'm building now
 
@@ -28,8 +28,11 @@ My recipe site, with illustrated recipe leaflets and a green-witch, cottage-witc
 ### Data analysis
 - [Google Playstore Analysis](https://github.com/rahinic/googleplaystore_analysis): download statistics of paid vs free apps.
 
+### Master's thesis
+- [Grounded theory](https://github.com/rahinic/grounded-theory-oct2022): a qualitative analysis project. I scraped YouTube data with Python, then did the qualitative analysis with ChatGPT shortly after its release. This one doesn't use NLP.
+
 ### Neural networks and NLP
-Projects I built to learn PyTorch and neural networks for NLP.
+Projects I built during my Master's to learn PyTorch and neural networks for NLP.
 - [PyTorch examples](https://github.com/rahinic/nn-pytorch-examples): DBPedia classifier and emotions classifier.
 - [Syntax parsing with LSTMs](https://github.com/rahinic/syntax-parsing-lstm), [syntax trees](https://github.com/rahinic/syntax-tree) and [POS tagging](https://github.com/rahinic/WSJ-POS-tagger).
 
